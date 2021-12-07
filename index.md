@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-Our data story starts with LGBT community.
+# Our data story starts with LGBT community.
 ## Header 2
 ### Header 3
 
