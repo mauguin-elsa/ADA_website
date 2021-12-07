@@ -11,8 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Introduction
-# Our data story starts with LGBT community.
+**Introduction**
+
+For this ADA project, the first idea that came to our mind was to analyze the evolution of speaking on the matter of gay rights and furthermore, how the LGBTQ+ community is perceived. Indeed, we thought that it was a very crucial subject as it is about human rights. If in the last decade, several countries have voted for legalization of gay wedding, there have been also lots of conservative movment in opposition and therefore the fighting for gay rights is far from being over.
 ## Header 2
 ### Header 3
 
