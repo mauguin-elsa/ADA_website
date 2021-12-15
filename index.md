@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Evolution of opinions on gay rights
-cover-img: ./assets/img/prideflag.jpg
+cover-img: prideflag.jpg
 ---
 
 
